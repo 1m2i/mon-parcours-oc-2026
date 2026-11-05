@@ -4,7 +4,7 @@
 
 Ce dépôt contient mon outil de suivi de formation, mis à jour chaque semaine pour ma mentor.
 
-👉 **Voir la page :** https://NOM-UTILISATEUR.github.io/mon-parcours-oc/
+👉 **Voir la page :** https://1m2i.github.io/mon-parcours-oc-2026/
 
 ## Ce que contient la page
 
